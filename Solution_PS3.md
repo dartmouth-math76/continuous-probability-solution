@@ -204,7 +204,7 @@ $$
 Complete the coding exercise in [BirthSimulation.ipynb](BirthSimulation.ipynb).  
 
 ##### Solution:
-See 
+See the [solution repository](https://github.com/dartmouth-math76/continuous-probability-solution).
 
 #### C1. Challenge Question 1: Uninformative Priors
 *This question is ungraded.*
